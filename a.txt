@@ -1,1 +1,4 @@
+merge a.txt
 aaaiiii
+aaaaa
+
